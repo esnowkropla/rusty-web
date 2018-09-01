@@ -1,0 +1,7 @@
+[package]
+name = "rusty-web"
+version = "0.1.0"
+authors = ["esk"]
+
+[dependencies]
+regex = "*"
